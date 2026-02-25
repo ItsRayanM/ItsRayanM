@@ -179,9 +179,6 @@ I'm Rayan Mustafa, a Germany-based Full Stack Developer specializing in scalable
     <a href="https://discord.com/users/1233943733221855324">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-      <a href="https://x.com/nww6ii">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
 </p>
 
 ---
