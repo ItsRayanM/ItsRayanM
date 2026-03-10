@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="banner.png" />
-</p>
-<h1 align="center">Rayan Mustafa</h1>
+<h1 align="center">Rayan Mustafa</h1
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;API+%26+Backend+Focused;Building+Scalable+Systems;Freelancer+Open+To+Opportunities"/>
@@ -47,10 +44,6 @@ I'm Rayan Mustafa, a Germany-based Full Stack Developer specializing in scalable
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-<p align="center">
   
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -64,10 +57,6 @@ I'm Rayan Mustafa, a Germany-based Full Stack Developer specializing in scalable
 <td width="50%">
 
 ### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,ts,js,prisma,graphql" />
-</p>
-
 <p align="center">
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -88,10 +77,6 @@ I'm Rayan Mustafa, a Germany-based Full Stack Developer specializing in scalable
 
 ### Database & Caching
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-</p>
-
-<p align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -104,10 +89,6 @@ I'm Rayan Mustafa, a Germany-based Full Stack Developer specializing in scalable
 <td width="50%">
 
 ### DevOps & Infrastructure
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,githubactions" />
-</p>
-
 <p align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -126,10 +107,6 @@ I'm Rayan Mustafa, a Germany-based Full Stack Developer specializing in scalable
 
 ### Testing & API Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,postman,swagger" />
-</p>
-
-<p align="center">
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -141,10 +118,6 @@ I'm Rayan Mustafa, a Germany-based Full Stack Developer specializing in scalable
 <td width="50%">
 
 ### Version Control & IDE
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
 <p align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
