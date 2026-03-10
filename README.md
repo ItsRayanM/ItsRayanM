@@ -1,17 +1,3 @@
-<h1 align="center">Rayan Mustafa</h1
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;API+%26+Backend+Focused;Building+Scalable+Systems;Freelancer+Open+To+Opportunities"/>
-  </a>
-</p>
-
-
-<p align="center">
-  Building scalable, production-grade web applications with modern technologies.
-</p>
-
----
-
 ## 🧑‍💼 About Me
 
 I'm Rayan Mustafa, a Germany-based Full Stack Developer specializing in scalable APIs, backend systems, dashboards, and modern e-commerce solutions.
